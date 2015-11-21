@@ -32,9 +32,12 @@ accountant.
 * Docking station
 * External keyboard
 * [HackRF](https://greatscottgadgets.com/hackrf/)
+* Headphones, e.g. [Bose QuietComfort 15](http://www.amazon.com/gp/product/B0054JJ0QW)
 * Mobile Phone
+* Monitor
 * Music player, e.g. [Sonos](http://www.sonos.com/)
 * Power converter
+* Speakers
 * Tablet
 * USB condom, e.g. [SynStop](http://syncstop.com/)
 

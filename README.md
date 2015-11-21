@@ -17,22 +17,29 @@ accountant.
 * Coffee grinder
 * Label printer
 * Laminator
+* Printer (scanner/fax)
+* Shredder
 
 ## Print related
 
-* Business cards, e.g. from [Moo](https://www.moo.com/eu/)
+* Business cards, e.g. [Moo](https://www.moo.com/eu/)
 * Business envelopes
+* Note pad
 * Pre-packaged post stamps
 
 ## Hardware gadets
 
+* Docking station
 * External keyboard
-* Power converter
-* USB condom
+* [HackRF](https://greatscottgadgets.com/hackrf/)
 * Mobile Phone
+* Music player, e.g. [Sonos](http://www.sonos.com/)
+* Power converter
 * Tablet
+* USB condom, e.g. [SynStop](http://syncstop.com/)
 
-## Electronics
+## Electronics related
 
+* Screwdriver
 * Soldering station
 * Voltmeter
